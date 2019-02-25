@@ -1,0 +1,6 @@
+orderID,type,number_buying,currency
+Wed Oct 19 2016 13:56:00 GMT-0700 (PDT),buy,10,BTC
+Wed Oct 19 2016 13:56:03 GMT-0700 (PDT),buy,4,BTC
+Wed Oct 19 2016 13:56:06 GMT-0700 (PDT),buy,5,USD
+Wed Oct 19 2016 13:56:09 GMT-0700 (PDT),sell,10,USD
+Wed Oct 19 2016 13:56:11 GMT-0700 (PDT),sell,10,BTC
